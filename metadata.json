@@ -1,0 +1,8 @@
+
+{
+  "name": "CA-Insight: Professional Accounting AI",
+  "description": "Deployment-ready professional accounting tool for Chartered Accountants. Extracts audit-ready ledgers and trial balances from financial data using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
